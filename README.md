@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Hadi
-I’m currently learning computer science in Technion
+## My name is Hadi
+## I’m currently learning computer science in Technion
 <!--
 **HadiChalil/HadiChalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
